@@ -1,2 +1,4 @@
-# NZQA-L2-PizzaOrders
-A C# Program for a NZQA achievement standard. Mangers phone orders for a pizza delivery.
+# A Basic Area and Perimeter Calulator.
+A basic program for calculating the area and perimeter of 3 shapes, a circle, square, and rectangle.
+The program was written using Xamarin.Mac with Visual Studio for Mac.
+Icon made by Freepik from www.flaticon.com
